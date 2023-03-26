@@ -1,0 +1,26 @@
+[
+  {
+    "vector3": {
+      "x": 496,
+      "y": 101,
+      "z": 503
+    },
+    "message": "hola hola! :D"
+  },
+  {
+    "vector3": {
+      "x": 496,
+      "y": 101,
+      "z": 506
+    },
+    "message": "hola! encantado de conocerte!"
+  },
+  {
+    "vector3": {
+      "x": 492,
+      "y": 100,
+      "z": 504
+    },
+    "message": ":)"
+  }
+]
